@@ -1,0 +1,115 @@
+html {
+    background-color: #7db4cc;
+    margin: 5px;
+}
+
+h1 {
+    background-color: #295c9652;
+    text-align: center;
+    padding: 8px;
+    border-style: outset;
+    background-color: #c5cae9;
+    mix-blend-mode: screen;
+}
+
+.Select--single>.Select-control .Select-value,
+.Select-placeholder {
+    bottom: 0;
+    color: #7db4cc;
+}
+
+div#counters {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 125px;
+    margin-left: 125px;
+}
+
+#counters h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+div#dropcont {
+    color: #e1effb;
+}
+
+div#dropcount {
+    COLOR: #e1effb;
+}
+
+#counters h2 {
+    color: #ff0030;
+}
+
+h2#total-vaccins-counter {
+    color: #00ff0a;
+}
+
+h2#total-cases-value {
+    color: #ff9800;
+}
+
+#counters p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+input[type="radio"] {
+    margin: 0px 25px;
+    /* font-size: 20px; */
+}
+
+label {
+    color: #e1effb;
+    font-size: 20px;
+}
+
+div#bar {
+    margin: 3px;
+}
+
+div#line {
+    margin: 3px;
+}
+
+div#scatter {
+    margin: 3px;
+}
+
+div#age {
+    margin: 3px;
+}
+
+div#stacked {
+    margin: 3px;
+}
+
+div#area {
+    margin: 3px;
+}
+
+div#bubble {
+    margin: 3px;
+}
+
+div#hist {
+    margin: 3px;
+}
+
+div#map {
+    margin: 3px;
+    background-color: #4183a3;
+    color: crimson;
+}
+
+div#cases-deaths-selector {
+    background-color: #4183a3;
+}
+
+div#total-cases-deaths-selector {
+    background-color: #4183a3;
+}
